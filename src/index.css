@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body{
+    background: url('/images/orchestra.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+body:hover{
+    cursor: url('/images/conductor-stick.png'), auto;
+
+}
